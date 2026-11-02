@@ -1,0 +1,10 @@
+pandas
+numpy
+python-dateutil
+openpyxl
+scikit-learn
+xgboost
+shap
+matplotlib
+ipywidgets
+jupyter
